@@ -10,7 +10,7 @@ function Home() {
                 <div className="home-content">
                     <p className="intro">HELLO, I'M</p>
 
-                    <h1>YUVARANI</h1>
+                    <h1>Yuvarani</h1>
 
                     <h2>Mern Stack Developer</h2>
 
